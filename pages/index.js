@@ -6,7 +6,6 @@ export default function Home() {
     <div>
       <Head>
         <title>Next.js Calculator</title>
-        <link rel="stylesheet" href="../style.css"/>
       </Head>
       <Layout/>
     </div>
